@@ -30,9 +30,7 @@
 
 <br>
 
-![BecaAlvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaAlvarez&show_icons=true&theme=great-gatsby&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaAlvarez&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/BecaAlvarez/github-readme-stats)
+![BecaAlvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaAlvarez&show_icons=true&theme=great-gatsby&count_private=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaAlvarez&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/BecaAlvarez/github-readme-stats)
 
 
 <br>
