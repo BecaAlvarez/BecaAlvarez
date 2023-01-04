@@ -1,6 +1,6 @@
 ## Olá, pessoas! Seja Bem-vindo e fique a vontade 😊
 
-- 🔭 Trabalhando com Desenvolvimento mobile e design gráfico
+- 🔭 Desenvolvimento mobile e design gráfico
 - 🌱 Estudando React Native e Node JS
 - 😄 Pronouns: ela/dela
 
@@ -23,7 +23,7 @@
   
 <h5>Contatos </h5>
 <div>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="mailto:rebecaalvarez.ti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/rebecaalvarezti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://www.behance.net/RebecaAlvarez" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
 </div>
