@@ -34,3 +34,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
 </div>
 
+<div>
+  ![Snake animation](https://github.com/BecaAlvarez/BecaAlvarez/blob/9de2c9d8c6dd7447fba0f480e28f6b8e4abc1379/github-contribution-grid-snake.svg)
+</div>
