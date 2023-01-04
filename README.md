@@ -25,12 +25,14 @@
 <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/rebecaalvarezti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
+  <a href="https://www.behance.net/RebecaAlvarez" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
 </div>
 
 <br>
 
-![BecaAlvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaAlvarez&show_icons=true&theme=great-gatsby&count_private=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaAlvarez&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/BecaAlvarez/github-readme-stats)
+![BecaAlvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaAlvarez&show_icons=true&theme=great-gatsby&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaAlvarez&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/BecaAlvarez/github-readme-stats)
 
 
 <br>
