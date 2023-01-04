@@ -1,4 +1,4 @@
-## Olá, pessoas! Seja Bem-vindo e fique a vontade 😊
+## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento mobile e design gráfico
 - 🌱 Estudando React Native e Node JS
