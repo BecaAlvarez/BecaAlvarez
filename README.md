@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento web/mobile e design gráfico
-- 🌱 Estudando React Native e Node JS
+- 🌱 Estudando ReactJS, React Native e Node JS
 - 😄 Pronouns: ela/dela
 
 ##
