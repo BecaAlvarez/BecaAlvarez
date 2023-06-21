@@ -33,7 +33,4 @@
 ![BecaAlvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaAlvarez&show_icons=true&theme=great-gatsby&count_private=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaAlvarez&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/BecaAlvarez/github-readme-stats)
 
 
-<br>
-
-![Snake animation](https://github.com/BecaAlvarez/BecaAlvarez/blob/9de2c9d8c6dd7447fba0f480e28f6b8e4abc1379/github-contribution-grid-snake.svg)
 
