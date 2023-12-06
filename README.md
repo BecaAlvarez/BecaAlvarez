@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento web e mobile 
-- 🌱 Estudando ReactJS, React Native e Node JS
+- 🌱 Estudando ReactJS, React Native, Nest JS e C#
 - 😄 Pronouns: ela/dela
 
 ##
@@ -12,8 +12,8 @@
     <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/>&nbsp;        
-    <img align="center" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>&nbsp;
-    <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
+    <img align="center" alt="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="50px"/>&nbsp;
+    <img align="center" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/>
     <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px"/>
     <img  align="center" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px"/>&nbsp;         
 </div>                          
