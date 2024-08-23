@@ -1,12 +1,11 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento web e mobile 
-- 🌱 Estudando ReactJS, React Native, Nest JS e C#
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando ReactJS e React Native
 
 ##
  
-#### Tecnologias Desenvolvimento e Design
+#### Tecnologias Desenvolvimento 
 <div style="display: inline_block"><br>
     <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>&nbsp;
     <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>&nbsp;
