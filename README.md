@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento web e mobile 
-- 🌱 Estudando ReactJS e React Native
+- 🌱 Estudando ReactJS, React Native, Node JS
 
 ##
  
