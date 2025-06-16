@@ -1,20 +1,20 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
-- 🔭 Desenvolvimento web e mobile; 
-- 🌱 Estudando React, NextJS, NodeJS, PHP e SQL;
+- 🔭 Desenvolvimento e Cloud Computing; 
+- 🌱 Estudando Python, React, AWS e SQL;
 - 👩‍💻 Habilidades em SEO, UiUx, responsividade e acessibilidade.
 
 ##
  
-#### Tecnologias Desenvolvimento 
+#### Tecnologias 
 <div style="display: inline_block"><br>
+    <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px"/>&nbsp;
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>&nbsp;
     <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>&nbsp;
     <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/>&nbsp;
-    <img align="center" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50px"/>&nbsp;
-    <img align="center" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50px"/>&nbsp;    
-    <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px"/>&nbsp;    
+    <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px"/>&nbsp;
 </div>                          
 
 ##
