@@ -1,8 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento e Cloud Computing; 
-- 🌱 Estudando Python, React, AWS e SQL;
-- 👩‍💻 Habilidades em SEO, UiUx, responsividade e acessibilidade.
+- 🌱 Estudando Python, SQL, Docker, Linux, AWS, Devops e Cibersecurity;
 
 ##
  
@@ -11,9 +10,6 @@
     <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"/>&nbsp;
     <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>&nbsp;
-    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50px"/>&nbsp;
-    <img align="center" alt="css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50px"/>&nbsp;
-    <img align="center" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px"/>&nbsp;
 </div>                          
 
@@ -22,8 +18,7 @@
 <h5>Contatos </h5>
 <div>
   <a href="mailto:rebecaalvarez.ti@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/rebecaalvarezti/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://www.behance.net/RebecaAlvarez" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/rebecaalvarez-tech/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 
 <br>
