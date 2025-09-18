@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento e Cloud Computing; 
-- 🌱 Estudando Python, SQL, Docker, Linux, AWS, Devops e Cibersecurity;
+- 🌱 Estudando Python, SQL, Docker, Terraform, Linux, AWS, Devops e Cibersecurity;
 
 ##
  
