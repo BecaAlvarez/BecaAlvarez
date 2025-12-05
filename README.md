@@ -16,9 +16,7 @@
     <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px"/>&nbsp;
     <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="50px"/>&nbsp;
     <img align="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>&nbsp;
-    <img align="center" alt="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40px"/>&nbsp;
-          
-          
+    <img align="center" alt="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40px"/>&nbsp;         
 </div>                          
           
 ##
@@ -31,7 +29,7 @@
 
 <br>
 
-![BecaAlvarez's GitHub stats](https://github-readme-stats.vercel.app/api?username=BecaAlvarez&show_icons=true&theme=great-gatsby&count_private=true)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BecaAlvarez&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/BecaAlvarez/github-readme-stats)
+
 
 
 
