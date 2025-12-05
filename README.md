@@ -1,7 +1,7 @@
 ## Olá, pessoa! Seja bem-vindo e fique a vontade 😊
 
 - 🔭 Desenvolvimento e Cloud Computing; 
-- 🌱 Estudando Python, SQL, Docker, Linux, AWS, Devops e Cibersecurity;
+- 🌱 Estudando Python, SQL, Docker, Linux, AWS, Gitlab Devops e Cibersecurity;
 - 🛠️ Experiência em ferramentas frontend e design: figma, html, css (bootstrap e tailwindcss) e javascript (ReactJS).
 - 📜 AWS Certified Cloud Practitioner CLF-C02 
 
@@ -14,8 +14,10 @@
     <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50px"/>&nbsp;          
     <img align="center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50px"/>&nbsp;
     <img align="center" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50px"/>&nbsp;
-    <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="50px"/>&nbsp;
-    <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>&nbsp; 
+    <img align="center" alt="docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="50px"/>&nbsp;
+    <img align="center" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50px"/>&nbsp;
+    <img align="center" alt="gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="40px"/>&nbsp;
+          
           
 </div>                          
           
